@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHh07MI9cDDOgPaLgHeEeLJo6FVc8xc0qIOMIq3vWIgMgnUSuLGS4xuqB7malSGA+rOgJCn0vFfpv3cge53FVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LUCAS\\Desktop\\Blazor\\SqsConsumer\\SqsConsumer\\SqsConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUCAS\\.nuget\\packages\\awssdk.core\\3.7.300.12\\awssdk.core.3.7.300.12.nupkg.sha512",
+    "C:\\Users\\LUCAS\\.nuget\\packages\\awssdk.sqs\\3.7.300.12\\awssdk.sqs.3.7.300.12.nupkg.sha512"
+  ],
+  "logs": []
+}
