@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zcMNvn28JPqlfEneeTIq8l7sQCTrYknedE6Xq2P0MBwBB8SVC2OFJIir2mWqxDsWvynm14P+YwFepuozFdmc4A==",
+  "dgSpecHash": "d1wZBoOtmbae+R4XF0iKd0oMngtf4hsGKkUXh8O5H26AB6lzdFncjdKi4ghywX/V/cxKqlY8ECfoK4p9bRCb1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LUCAS\\Desktop\\Blazor\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj",
+  "projectFilePath": "C:\\Users\\LUCAS\\Source\\Repos\\Lucasbacarinireis\\AwsFundamentals\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUCAS\\.nuget\\packages\\awssdk.core\\3.7.300.12\\awssdk.core.3.7.300.12.nupkg.sha512",
     "C:\\Users\\LUCAS\\.nuget\\packages\\awssdk.sqs\\3.7.300.12\\awssdk.sqs.3.7.300.12.nupkg.sha512",

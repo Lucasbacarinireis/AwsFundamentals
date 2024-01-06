@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUCAS\\Desktop\\Blazor\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj": {}
+    "C:\\Users\\LUCAS\\Source\\Repos\\Lucasbacarinireis\\AwsFundamentals\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUCAS\\Desktop\\Blazor\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj": {
+    "C:\\Users\\LUCAS\\Source\\Repos\\Lucasbacarinireis\\AwsFundamentals\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUCAS\\Desktop\\Blazor\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj",
+        "projectUniqueName": "C:\\Users\\LUCAS\\Source\\Repos\\Lucasbacarinireis\\AwsFundamentals\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj",
         "projectName": "Customers.Consumer",
-        "projectPath": "C:\\Users\\LUCAS\\Desktop\\Blazor\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj",
+        "projectPath": "C:\\Users\\LUCAS\\Source\\Repos\\Lucasbacarinireis\\AwsFundamentals\\SqsConsumer\\Customers.Consumer\\Customers.Consumer.csproj",
         "packagesPath": "C:\\Users\\LUCAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUCAS\\Desktop\\Blazor\\SqsConsumer\\Customers.Consumer\\obj\\",
+        "outputPath": "C:\\Users\\LUCAS\\Source\\Repos\\Lucasbacarinireis\\AwsFundamentals\\SqsConsumer\\Customers.Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LUCAS\\AppData\\Roaming\\NuGet\\NuGet.Config",

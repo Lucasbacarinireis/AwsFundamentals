@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LSOI4Y0pxJ6RB8jBQbd+4lu706s1h95LpqHeX60KQ8QRWnZyoD4+R5phLiYCANPDBfQlNMeLmFnkpjCFNZSfsw==",
+  "dgSpecHash": "vbVnYnN/2ERYWA6r1M1b6mWxdUShR9m7fXnRuMlvj3Ri7kG1MWj8dpM4qTVhLxnTmzRR9JV/xfjpEd2hW5/wXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LUCAS\\Desktop\\Blazor\\SqsConsumer\\SnsPublisher\\SnsPublisher.csproj",
+  "projectFilePath": "C:\\Users\\LUCAS\\Source\\Repos\\Lucasbacarinireis\\AwsFundamentals\\SqsConsumer\\SnsPublisher\\SnsPublisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUCAS\\.nuget\\packages\\awssdk.core\\3.7.300.16\\awssdk.core.3.7.300.16.nupkg.sha512",
     "C:\\Users\\LUCAS\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.300.16\\awssdk.simplenotificationservice.3.7.300.16.nupkg.sha512"
